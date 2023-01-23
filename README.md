@@ -7,3 +7,25 @@ Ce programme à pour but de contrôler un robot mesurant des distances.
 Quand l'utilisateur presse le bouton du haut, le robot se déplace tout droit en avant jusqu'à rencontrer un obtacle. S'il presse le bouton du bas, le robot se déplace à reculon jusqu'à ce que l'utilisateur presse le bouton du millieu.
 Si l'utilisateur appuye sur le bouton du millieu, le robot avance en parcours sinueux et l'utilisateur peut contrôler la direction ( gauche ou droit) grâce à la manette.
 Il affiche ensuite la distance parcourue sur l'écran, en centimètres (cm). Les valeurs mesurées seront stockées dans un fichier qu'on a créé ( fichier mesures.txt).
+
+
+SOP/
+|
+|-- bicycle_final/
+|     |-- 111085122871_0.JPG
+|     |-- 111085122871_1.JPG
+|    
+|-- cabinet_final/
+|-- chair_final/
+|-- coffee_maker_final/
+
+
+SOP/
+|-- database/
+|   |-- bicycle_final/
+|   |   |-- 111085122871_0.JPG
+|   |   |-- 111085122871_1.JPG
+|   |  
+|   |-- cabinet_final/
+|   |-- chair_final/
+|   |-- coffee_maker_final/
